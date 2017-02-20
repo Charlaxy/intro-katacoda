@@ -21,8 +21,8 @@
 			{
 			"title": "Step 1 - Exploring The Command Line",
 			"text": "1explore-cli.md"
-			},
-		]
+			}
+		],
 		"intro": {
 			"courseData": "env-init.sh",
 			"code": "set-env.sh",
