@@ -13,5 +13,10 @@
       "course_id": "resource-objects",
       "title": "Using the CLI to Manage Resource Objects"
     }
+    {
+      "external_link": "http://openshift.katacoda.com/introduction/asp-net/",
+      "course_id": "asp-net",
+      "title": "ASP.NET"
+    }
   ]
 }
